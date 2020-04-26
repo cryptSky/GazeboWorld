@@ -42,5 +42,5 @@ $ gazebo ../world/myplugin
 The world should open in Gazebo, and the terminal should display the message:
 
 ```
-Hello World!
+Welcome to Volodymyr’s World!
 ```
